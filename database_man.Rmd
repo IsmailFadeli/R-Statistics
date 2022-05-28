@@ -1,0 +1,21 @@
+---
+title: "testing_database"
+author: "Ismail Fadeli"
+date: "5/28/2022"
+output: html_document
+---
+##Packages
+
+```{r message=FALSE}
+library(flextable)
+library(magrittr)
+library(data.table)
+library(magrittr)
+library(dplyr)
+library(officer)
+```
+
+
+```{r cars}
+
+```
